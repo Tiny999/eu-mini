@@ -25,7 +25,7 @@ const Deep = () => {
       // Initialize DeepAR
       const deepAR = deep({
         licenseKey:
-          "60b5fcbb0444ef771e678bf8178b0c85f67cd6907ccf36cbdfec02b74694c171ad987a82a6884de0",
+          "3c0601c6e819b65821ed92ba3d9c8fa0b1a47ad32a026c5a383d7fa5e055d336d35d72a64c866a6d",
         canvasWidth: containerRef.current?.width,
         canvasHeight: containerRef.current?.height,
         canvas: containerRef.current,
